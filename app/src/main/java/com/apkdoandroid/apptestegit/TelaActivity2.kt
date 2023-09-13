@@ -9,7 +9,6 @@ class TelaActivity2 : AppCompatActivity() {
         setContentView(R.layout.activity_tela2)
         println("Mensagem para você")
         println("modificado")
-        println("modificado2")
-        println("modificado3")
+
     }
 }
