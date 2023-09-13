@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Mensagem")
         println("Mensagem 2")
+        println("Modificado 4")
     }
 }
