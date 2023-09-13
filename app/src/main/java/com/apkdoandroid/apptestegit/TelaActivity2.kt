@@ -13,5 +13,6 @@ class TelaActivity2 : AppCompatActivity() {
         println("modificado3")
         println("modificado5")
         println("modificado6")
+        println("modificado7")
     }
 }
