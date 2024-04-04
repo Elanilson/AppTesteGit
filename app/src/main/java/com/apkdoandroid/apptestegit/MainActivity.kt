@@ -24,7 +24,9 @@ class MainActivity : AppCompatActivity() {
         println("Modificado 16")
         println("Modificado 17")
         println("Modificado 18")
-        println("Modificado 22")
+        println("Modificado 19")
+        println("Modificado 20")
+        println("Modificado 21")
 
 
     }
